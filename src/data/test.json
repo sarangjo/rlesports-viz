@@ -1,0 +1,30 @@
+[
+  {
+    "events": [
+      {
+        "start": "2015-07-10",
+        "team": "Team 1"
+      }
+    ],
+    "name": "Player 1"
+  },
+  {
+    "events": [
+      {
+        "start": "2015-07-10",
+        "team": "Team 1"
+      }
+    ],
+    "name": "Player 2"
+  },
+  {
+    "events": [
+      {
+        "start": "2015-07-10",
+        "end": "2020-01-01",
+        "team": "Team 1"
+      }
+    ],
+    "name": "Player 3"
+  }
+]
